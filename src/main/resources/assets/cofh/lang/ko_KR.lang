@@ -1,10 +1,10 @@
 #ko_KR
 
-#chat.cofh.secure.0=알림: 서버에 모든 Op는 제한없이 보안 설정된 블록을 접근 할 수 있습니다.
+#chat.cofh.secure.0=알림: 서버에 모든 Op는 제한 없이 보안 설정된 블록에 접근할 수 있습니다.
 #chat.cofh.secure.1=This is private and belongs to
 #chat.cofh.secure.2=You could have lost your hand!
 
-#enchant.cofh.holding=Holding
+enchant.cofh.holding=보유
 
 info.cofh.access=보안
 info.cofh.accessMode=보안 설정
@@ -93,7 +93,7 @@ info.cofh.tutorial.tabConfiguration.1=설정 탭에서 블록의 전송/수송 �
 info.cofh.tutorial.tabRedstone=레드스톤 제어 탭에서 레드스톤 신호 세기에따른 동작 여부를 설정할 수 있습니다.
 info.cofh.tutorial.tabSecurity=보안 탭에서 블록에 접근 가능한 사용자를 설정할 수 있습니다.
 
-#item.invalid.name=Invalid Item (Destroy)
+item.invalid.name=유효하지 않은 아이템 (파괴됨)
 
 #액체 이름 수정
 
